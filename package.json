@@ -1,0 +1,25 @@
+{
+  "name": "servidor_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandr0177/Servidor_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandr0177/Servidor_Web/issues"
+  },
+  "homepage": "https://github.com/Alejandr0177/Servidor_Web#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
