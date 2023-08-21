@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Alejandr0177/Servidor_Web#readme",
   "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
     "nodemon": "^3.0.1"
   }
 }
